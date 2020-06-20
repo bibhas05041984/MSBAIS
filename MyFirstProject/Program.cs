@@ -17,7 +17,7 @@ namespace My_first_program
             Console.WriteLine((1 + 2) * 3);
 
             // Waiting for Enter
-            Console.WriteLine("Testing GIt.");
+            Console.WriteLine("Testing GIt. Again in the morning..");
             //Console.ReadLine();
 
         }
