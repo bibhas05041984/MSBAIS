@@ -9,7 +9,6 @@ namespace My_first_program
             // Output of text to the user
             Console.WriteLine("Let me try again in C#.");
 
-
             // Output of a number to the user
             Console.WriteLine(37);
 
@@ -18,9 +17,9 @@ namespace My_first_program
             Console.WriteLine((1 + 2) * 3);
 
             // Waiting for Enter
-
+            Console.WriteLine("Testing GIt.");
             //Console.ReadLine();
-           
+
         }
     }
 }
