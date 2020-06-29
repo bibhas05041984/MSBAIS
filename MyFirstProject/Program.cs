@@ -13,7 +13,7 @@ namespace My_first_program
             //Write a program that collects 3 numbers from users and outputs the largest of the 3 numbers.
             //The program should handle improper inputs gracefully.Paste the code in the text area.
 
-            /*
+            
             int n1 = 0, n2 = 0, n3 = 0;
             Console.WriteLine("Please enter 3 numbers :");
             string n11 = Console.ReadLine();
@@ -37,8 +37,8 @@ namespace My_first_program
             Console.ReadLine();
 
             // End of In-Class Exercise 1
-            */
 
+            //In-Class Exercise 2
             // Write a program that collects 10 numbers as inputs from the user as well as a number to find.
             // The program should add the numbers to a dictionary and return true if the number was among the 10 numbers input and
             // false otherwise.Paste the code in the text area.
@@ -89,6 +89,9 @@ namespace My_first_program
                 Console.WriteLine("Number was not found" );
 
             Console.ReadLine();
+
+            //End of In-Class Exercise 2 -test
+
 
         }
     }
